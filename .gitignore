@@ -1,0 +1,59 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+A3D_entrada/
+fasta/
+.vs/
+.vscode/
+xq/
+testes_ok/
+obsolete/
+
+# Virtual environments
+# venv/
+# env/
+# .venv/
+# ENV/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos grandes (dados)
+#*.csv
+*.h5
+*.zip
+
+# Git LFS (caso esteja usando)
+*.model
+*.weights
+*.pt
+
+# Arquivo a ser ignorado pelo Git
+#nova_pagina_estrutura.py
+Prog_Seq_Amino.py
+Prog_Seleciona.py
+Prog_MagreI.py
+Prog_Funcoes_old.py
+nova_pagina_dispersao.py
+Plot_3Dmol.py
+Prog_Amypro.py
+app.py
+appMagreTresErro copy.py
+appMagreTresErro.py
+Prog_Gera_Modelo.py
+app3Dagrega.py
+Prog_Agregacao_Sequencia.py
+Prog_Amino.py
